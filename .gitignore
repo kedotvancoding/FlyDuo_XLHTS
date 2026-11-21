@@ -1,0 +1,6 @@
+# Ảnh dữ liệu: KHÔNG commit (điều khoản không cho phân phối lại)
+data/raw/*
+!data/raw/.gitkeep
+*.asv
+*.autosave
+.DS_Store
