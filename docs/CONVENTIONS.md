@@ -81,3 +81,6 @@ Bộ lọc nhận `params = cfg.filters.<tên>`; trả về `double`, cùng kíc
 
 - Mỗi người một nhánh (`a2-data`, `a3-noise`, ...), mở Pull Request về `main`, A1 duyệt và gộp. PR cần: đúng chữ ký (mục 3), có test PASS, không hard-code tham số, không có ảnh hoặc `.asv`.
 - Tag: `M1`, `M2`, `M3`, và `freeze` (trước khi chạy tập test).
+
+- siuuuu
+- 
