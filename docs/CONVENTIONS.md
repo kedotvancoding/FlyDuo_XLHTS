@@ -1,7 +1,7 @@
 # CONVENTIONS — Quy ước chung nhóm FlyDuo
 
 > Đọc trước khi viết code. Muốn đổi quy ước: báo A1, sửa file này, báo cả nhóm.
-> Mọi con số/tham số nằm ở `config/config.m`, không nằm trong file này; 
+> Mọi con số/tham số nằm ở `config/config.m`, không nằm trong file này; siuuuuu
 
 ## 1. Kiểu dữ liệu
 
