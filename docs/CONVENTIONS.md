@@ -1,7 +1,7 @@
 # CONVENTIONS — Quy ước chung nhóm FlyDuo
 
 > Đọc trước khi viết code. Muốn đổi quy ước: báo A1, sửa file này, báo cả nhóm.
-> Mọi con số/tham số nằm ở `config/config.m`, không nằm trong file này; siuuuuuu
+> Mọi con số/tham số nằm ở `config/config.m`, không nằm trong file này; 
 
 ## 1. Kiểu dữ liệu
 
@@ -82,4 +82,3 @@ Bộ lọc nhận `params = cfg.filters.<tên>`; trả về `double`, cùng kíc
 - Mỗi người một nhánh (`a2-data`, `a3-noise`, ...), mở Pull Request về `main`, A1 duyệt và gộp. PR cần: đúng chữ ký (mục 3), có test PASS, không hard-code tham số, không có ảnh hoặc `.asv`.
 - Tag: `M1`, `M2`, `M3`, và `freeze` (trước khi chạy tập test).
 
-siuuuuuu
